@@ -1,0 +1,2 @@
+# NN-fashionmnist-dataset
+sushi
